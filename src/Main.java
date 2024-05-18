@@ -53,7 +53,7 @@ public class Main {
         System.out.println();
 
         //Задание 4
-        int deliveryDistance = 96;
+        int deliveryDistance = 95;
         int daysToDeliver = 0;
         if (deliveryDistance <= 20) {
             daysToDeliver++;
